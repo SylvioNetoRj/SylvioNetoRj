@@ -33,9 +33,6 @@ Hello 👋, I'm Sylvio! A student passionate about Technology in Brazil.
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Heling ](https://github.com/SylvioNetoRj/Healing) - Projeto Clínica Médica
-- [Python - Nome do Projeto2 ](https://github.com/)
-- [Python - Nome do Projeto3 ](https://github.com/)
 
 
 
