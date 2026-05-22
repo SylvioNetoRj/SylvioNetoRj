@@ -20,8 +20,7 @@ sylvio@sec:~$ cat profile.txt
 
 ▸ Estudante de Defesa Cibernética – Estácio
 ▸ Bacharel em Sistemas de Informação – FEUC
-▸ Focado em: Python para Segurança, Análise de Dados, OSINT
-▸ Experiência: SAP, Coupa (Gestão de compras)
+▸ Focado em desenvolver o conhecimento nas seguintes áreas: Python para Segurança, Análise de Dados, OSINT
 ▸ Objetivo: atuar em Blue Team / SOC / Análise de Vulnerabilidades
 ```
 
@@ -58,7 +57,7 @@ sylvio@sec:~$ cat profile.txt
   <img src="assets/card-data-analysis.svg" width="190" />
   <img src="assets/card-html-web.svg" width="190" />
   <img src="assets/card-sap-erp.svg" width="190" />
-  <img src="assets/card-excel.svg" width="190" />
+  
 </p>
 
 ## Conecte-se
