@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="52" viewBox="0 0 190 52" fill="none">
+  <rect x="0.5" y="0.5" width="189" height="51" rx="8" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(14, 14) scale(1.5)">
+    <path d="M7.88 0C3.54 0 3.75 1.88 3.75 1.88v1.93h4.2v.58H3.75S1.65 4.19 1.65 8.52c0 4.33 1.88 4.13 1.88 4.13h1.12V11.1s-.05-1.88 1.87-1.88h4.01s1.84.05 1.84-1.78V4.86S12.78 0 7.88 0zm-1.85 1.08a.56.56 0 1 1 0 1.13.56.56 0 0 1 0-1.13z" fill="#3776AB"/>
+    <path d="M8.12 16c4.34 0 4.13-1.88 4.13-1.88v-1.93-4.2v-.58h4.2s2.1-.2 2.1-4.53c0-4.33-1.88-4.13-1.88-4.13h-1.12V4.9s.05 1.88-1.87 1.88H4.74s-1.84-.05-1.84 1.78v3.58S3.22 16 8.12 16zm1.85-1.08a.56.56 0 1 1 0-1.13.56.56 0 0 1 0 1.13z" fill="#FFE873"/>
+  </g>
+  <text x="50" y="24" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Python</text>
+  <rect x="50" y="32" width="40" height="3" rx="1.5" fill="#10B981"/>
+</svg>
