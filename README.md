@@ -63,10 +63,7 @@ sylvio@sec:~$ cat profile.txt
 ## Conecte-se
 
 <p align="left">
-  <a href="https://linkedin.com/in/sylvio-neto" target="_blank">
-    <img src="assets/conn-linkedin.svg" height="32" />
-  </a>
-  <a href="mailto:sylvio.81@gmail.com">
+   <a href="mailto:sylvio.81@gmail.com">
     <img src="assets/conn-email.svg" height="32" />
   </a>
   <img src="assets/conn-location.svg" height="32" />
